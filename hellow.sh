@@ -1,1 +1,1 @@
-echo Hello DEVOPS week1
+echo Hello from ver2 practice branch
